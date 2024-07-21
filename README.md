@@ -3,5 +3,5 @@
 
 ## Technologies:
 
-Blazor
-.NET
+- Blazor
+- .NET
